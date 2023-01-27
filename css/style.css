@@ -110,7 +110,7 @@ div {
     border-top: 2px solid  #FFFFFF;
 }
 
-footer{
+body footer{
     border: 5px solid;
     background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 75%,#000000);  
 }
@@ -118,5 +118,5 @@ footer{
 footer p {
     font-size: 20px;
     text-align: right;
-    padding-top: 15px 15px 15px 0px;
+    padding: 15px 15px 15px 0px;
 }
