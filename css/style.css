@@ -113,16 +113,10 @@ div {
 footer{
     border: 5px solid;
     background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 75%,#000000);  
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
 }
 
 footer p {
     font-size: 20px;
     text-align: right;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
-
+    padding-top: 15px 15px 15px 0px;
 }
